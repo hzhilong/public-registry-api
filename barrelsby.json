@@ -4,5 +4,5 @@
   "location": "top",
   "noHeader": true,
   "delete": true,
-  "exclude": ".d.ts"
+  "exclude": "^.*\\.d\\.ts$"
 }
