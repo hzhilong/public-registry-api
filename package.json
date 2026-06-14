@@ -1,6 +1,6 @@
 {
   "name": "public-registry-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "npm 公共注册表 API 的简单封装，带完整的 TypeScript 类型提示",
   "type": "module",
   "module": "./dist/index.js",

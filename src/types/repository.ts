@@ -7,4 +7,7 @@ export interface Repository {
 
   /** 仓库地址 */
   url: string
+
+  /** 子目录 */
+  directory?: string
 }
